@@ -13,3 +13,22 @@ C:\Users\iamja\OneDrive\Documents\Me Personally\first c# web app\Calculator\Calc
 C:\Users\iamja\OneDrive\Documents\Me Personally\first c# web app\Calculator\Calculator\obj\Debug\net7.0\Calculator.pdb
 C:\Users\iamja\OneDrive\Documents\Me Personally\first c# web app\Calculator\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
 C:\Users\iamja\OneDrive\Documents\Me Personally\first c# web app\Calculator\Calculator\obj\Debug\net7.0\ref\Calculator.dll
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\obj\Debug\net7.0\ref\Calculator.dll
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\bin\Debug\net7.0\CalculatorLibrary.dll
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\bin\Debug\net7.0\CalculatorLibrary.pdb
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.CopyComplete
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Calculator\Calculator\bin\Debug\net7.0\Newtonsoft.Json.dll

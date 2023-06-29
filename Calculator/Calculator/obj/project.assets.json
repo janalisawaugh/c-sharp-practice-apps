@@ -1,11 +1,76 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "CalculatorLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "compile": {
+          "bin/placeholder/CalculatorLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculatorLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "CalculatorLibrary/1.0.0": {
+      "type": "project",
+      "path": "../CalculatorLibrary/CalculatorLibrary.csproj",
+      "msbuildProject": "../CalculatorLibrary/CalculatorLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "CalculatorLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\iamja\\.nuget\\packages\\": {}
@@ -13,11 +78,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\first c# web app\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\first c# web app\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\iamja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\first c# web app\\Calculator\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iamja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +98,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+              "projectPath": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

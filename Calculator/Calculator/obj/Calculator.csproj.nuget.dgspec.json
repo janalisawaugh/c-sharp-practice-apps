@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\first c# web app\\Calculator\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\first c# web app\\Calculator\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\first c# web app\\Calculator\\Calculator\\Calculator.csproj",
-        "projectName": "Calculator",
-        "projectPath": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\first c# web app\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
+        "projectName": "CalculatorLibrary",
+        "projectPath": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj",
         "packagesPath": "C:\\Users\\iamja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\first c# web app\\Calculator\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\CalculatorLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iamja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,6 +28,71 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\Calculator\\Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\Calculator\\Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\Calculator\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\iamja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\Calculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\iamja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+                "projectPath": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Calculator\\CalculatorLibrary\\CalculatorLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
