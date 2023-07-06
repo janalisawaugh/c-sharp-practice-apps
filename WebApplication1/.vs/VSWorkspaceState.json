@@ -4,7 +4,8 @@
     "\\WebApplication1",
     "\\WebApplication1\\Pages",
     "\\WebApplication1\\wwwroot",
-    "\\WebApplication1\\wwwroot\\css"
+    "\\WebApplication1\\wwwroot\\css",
+    "\\WebApplication1\\wwwroot\\js"
   ],
   "SelectedNode": "\\WebApplication1\\Pages\\Index.cshtml",
   "PreviewInSolutionExplorer": false
