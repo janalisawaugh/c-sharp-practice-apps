@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BP9OzLZHMx7VlZyjX/qT6EjhGKLbKcgnXe35/3UnZvrCFa8uq/s2GJRA7viCIcIqj1EJg4lJ73T0vwttNJA7SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\Magic Villa\\Magic Villa_Villa API\\Magic Villa_Villa API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iamja\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

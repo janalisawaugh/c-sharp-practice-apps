@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XZ8K+vIZD8oYLbYSGhm1q3igMC+VkZwIN9EBof9mmpfqoAXueJvsYC/vaQvx4kpX9kwO1z7ra7HH0qwtUHFsWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iamja\\OneDrive\\Documents\\Me Personally\\c# app repo\\c-sharp-practice-apps\\CleanArchitectureDemo\\CleanArchitectureDemo.Domain\\CleanArchitectureDemo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iamja\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\iamja\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
