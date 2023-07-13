@@ -35,13 +35,3 @@ C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-app
 C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Newtonsoft.Json.dll
 C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
-C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Serilog.dll
-C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Serilog.AspNetCore.dll
-C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
-C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
-C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
-C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
-C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Serilog.Sinks.Console.dll
-C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
-C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Serilog.Sinks.File.dll

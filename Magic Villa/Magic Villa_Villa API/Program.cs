@@ -1,4 +1,9 @@
+//Entity Framework core is an ORM(object relational mapping) that makes all the management of data or cryd operations simple
+
+
+//These were for the dependency injection logging stuff
 //using Serilog;
+//using Magic_Villa_VillaAPI.Logging;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,6 +26,8 @@ builder.Services.AddControllers(option =>{
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+//builder.Services.AddSingleton<ILogging, LoggingV2>();
+    //check addsingleton, scope and transient
 
 var app = builder.Build();
 

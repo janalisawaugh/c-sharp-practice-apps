@@ -3,6 +3,7 @@ using Magic_Villa_VillaAPI.Models;
 using Magic_Villa_VillaAPI.Models.Dto;
 using Magic_Villa_VillaAPI.Data;
 using Microsoft.AspNetCore.JsonPatch;
+//using Magic_Villa_VillaAPI.Logging;
 //using Microsoft.AspNetCore.Mvc.NewtonsoftJson;
 //in the video for this we tested the endpoints in Postman around 1:23:54
 namespace Magic_Villa_VillaAPI.Controllers
@@ -14,20 +15,26 @@ namespace Magic_Villa_VillaAPI.Controllers
     public class VillaAPIController : ControllerBase
     {
         //in order to log we have to use dependency injection
-        
-        private readonly ILogger<VillaAPIController> _logger;
-        public VillaAPIController(ILogger<VillaAPIController> logger)
-        {
-            _logger = logger;
-        }
 
+        //private readonly ILogger<VillaAPIController> _logger;
+        //public VillaAPIController(ILogger<VillaAPIController> logger)
+        //{
+        //    _logger = logger;
+        //}
+
+        //private readonly ILogging _logger;
+
+        //public VillaAPIController(ILogging logger)
+        //{
+        //    _logger = logger;
+        //}
 
         //creating an endpoint here
         [HttpGet] //defining http verb for the endpoint GetVillas
         [ProducesResponseType(StatusCodes.Status200OK)]
         public ActionResult<IEnumerable<VillaDTO>> GetVillas()
         {
-            _logger.LogInformation("Getting all villas");
+            //_logger.Log("Getting all villas", "");
             return Ok(VillaStore.villaList);
         }
         /*
@@ -35,7 +42,7 @@ namespace Magic_Villa_VillaAPI.Controllers
          or the database model and what is being exposed from the API
          */
         
-        //the follwing statements are for GetVilla
+        //the following statements are for GetVilla
         [HttpGet("{id:int}", Name ="GetVilla")] //have to specify that this httpget takes a parameter
         //more explanatory way of writing the response types
         [ProducesResponseType(StatusCodes.Status200OK)]
@@ -55,7 +62,7 @@ namespace Magic_Villa_VillaAPI.Controllers
         {
             if (id == 0)
             {
-                _logger.LogError("Get Villa Error with Id" + id);
+                //_logger.Log("Get Villa Error with Id" + id, "error");
                 return BadRequest();
             }
             var villa = VillaStore.villaList.FirstOrDefault(u => u.Id == id);
