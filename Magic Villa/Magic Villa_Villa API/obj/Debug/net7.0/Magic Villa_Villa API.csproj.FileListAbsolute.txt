@@ -1,0 +1,33 @@
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\appsettings.json
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Magic Villa_Villa API.exe
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Magic Villa_Villa API.deps.json
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Magic Villa_Villa API.runtimeconfig.json
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Magic Villa_Villa API.dll
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Magic Villa_Villa API.pdb
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\Magic Villa_Villa API.csproj.AssemblyReference.cache
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\Magic Villa_Villa API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\Magic Villa_Villa API.AssemblyInfoInputs.cache
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\Magic Villa_Villa API.AssemblyInfo.cs
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\Magic Villa_Villa API.csproj.CoreCompileInputs.cache
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\Magic Villa_Villa API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\Magic Villa_Villa API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\staticwebassets\msbuild.Magic Villa_Villa API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\staticwebassets\msbuild.build.Magic Villa_Villa API.props
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Magic Villa_Villa API.props
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Magic Villa_Villa API.props
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\scopedcss\bundle\Magic Villa_Villa API.styles.css
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\Magic Villa_Villa API.csproj.CopyComplete
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\Magic Villa_Villa API.dll
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\refint\Magic Villa_Villa API.dll
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\Magic Villa_Villa API.pdb
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\Magic Villa_Villa API.genruntimeconfig.cache
+C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\obj\Debug\net7.0\ref\Magic Villa_Villa API.dll

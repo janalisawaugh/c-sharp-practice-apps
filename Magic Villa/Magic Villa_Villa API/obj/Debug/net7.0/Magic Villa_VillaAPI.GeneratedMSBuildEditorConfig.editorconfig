@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Magic_Villa_VillaAPI
+build_property.RootNamespace = Magic_Villa_VillaAPI
+build_property.ProjectDir = C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\iamja\OneDrive\Documents\Me Personally\c# app repo\c-sharp-practice-apps\Magic Villa\Magic Villa_Villa API
+build_property._RazorSourceGeneratorDebug = 
